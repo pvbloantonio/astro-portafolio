@@ -10,5 +10,5 @@ import netlify from "@astrojs/netlify";
 export default defineConfig({
   integrations: [tailwind(), icon(), compress()],
   output: "server",
-  adapter: vercel()
+  adapter: netlify()
 });
