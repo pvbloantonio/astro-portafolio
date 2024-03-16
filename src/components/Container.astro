@@ -14,13 +14,13 @@ const PDF = "/cv-20240219.pdf";
 ---
 
 <div class="join join-vertical gap-1">
-  <AccordionLayout title={"About"} icon={"carbon:identification"}>
+  <AccordionLayout title={"Acerca de mí"} icon={"carbon:identification"}>
     <article class="prose text-justify">
       <Fragment set:html={about.compiledContent()} />
     </article>
   </AccordionLayout>
 
-  <AccordionLayout title={"Work"} icon={"carbon:construction"}>
+  <AccordionLayout title={"Experiencia Laboral"} icon={"carbon:construction"}>
     {
       works.map((item) => {
         return (
@@ -38,7 +38,7 @@ const PDF = "/cv-20240219.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Studies"} icon={"carbon:education"}>
+  <AccordionLayout title={"Educación"} icon={"carbon:education"}>
     {
       studies.map((item) => {
         return (
@@ -55,7 +55,7 @@ const PDF = "/cv-20240219.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Projects"} icon={"carbon:tools"}>
+  <!-- <AccordionLayout title={"Projects"} icon={"carbon:tools"}>
     {
       projects.map((item) => {
         return (
@@ -70,9 +70,9 @@ const PDF = "/cv-20240219.pdf";
         );
       })
     }
-  </AccordionLayout>
+  </AccordionLayout> -->
 
-  <AccordionLayout title={"Certifications"} icon={"carbon:certificate"}>
+  <AccordionLayout title={"Certificados y Cursos"} icon={"carbon:certificate"}>
     {
       certificates.map((item) => {
         return (
@@ -82,14 +82,14 @@ const PDF = "/cv-20240219.pdf";
             description={item.compiledContent()}
             tags={item.frontmatter.tags}
             url={item.frontmatter.url}
-            url_name={"View Certificate"}
+            url_name={"Ver certificado"}
           />
         );
       })
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Blogs"} icon={"carbon:pen"}>
+  <!-- <AccordionLayout title={"Blogs"} icon={"carbon:pen"}>
     {
       blogs.map((item) => {
         return (
@@ -103,9 +103,9 @@ const PDF = "/cv-20240219.pdf";
         );
       })
     }
-  </AccordionLayout>
+  </AccordionLayout> -->
 
-  <AccordionLayout title={"Files"} icon={"carbon:volume-file-storage"}>
+  <AccordionLayout title={"Archivos"} icon={"carbon:volume-file-storage"}>
     <div class="flex justify-center w-full">
       <div
         class="card card-compact card-bordered border-[oklch(var(--p))] w-96 md:w-112 lg:w-128 hover:shadow-lg transition-all"
@@ -114,12 +114,14 @@ const PDF = "/cv-20240219.pdf";
           <object data={PDF} type="application/pdf" width="100%"></object>
         </figure>
         <div class="card-body">
-          <h2 class="card-title">Resume</h2>
-          <p>View and download my resume by clicking on the button below</p>
+          <h2 class="card-title">Curriculum</h2>
+          <p>
+            Ver y descargar mi currículum haciendo clic en el botón de abajo
+          </p>
           <div class="card-actions justify-end">
             <a target="_blank" href={PDF}>
               <button class="btn btn-outline">
-                <p>Download resume</p>
+                <p>Descargar</p>
                 <Icon name="carbon:document-pdf" class="w-6 h-6 ml-1" />
               </button>
             </a>
@@ -129,7 +131,7 @@ const PDF = "/cv-20240219.pdf";
     </div>
   </AccordionLayout>
 
-  <AccordionLayout title={"Contact"} icon={"carbon:location-person"}>
+  <AccordionLayout title={"Contacto"} icon={"carbon:location-person"}>
     <div class="flex flex-wrap content-around gap-4 justify-center">
       {
         contact.map((item) => {

@@ -1,8 +1,8 @@
 ---
-title: Microcomputing systems and networks
-location: A Coruña, Galicia
-url: http://ni.sb/mehanad
-institute: IES Mehanad
-date: 2020-2021
-tags: ["networking", "security", "scripting", "OS", "virtualization", "CMS", "office automation"]
+title: Diplomado en Conectividad y Redes de datos
+location: Valdivia, Chile
+url: https://www.ust.cl/
+institute: Universidad Santo Tomás
+date: 2017
+tags: ["CCNA: Switching, Routing, and Wireless Essentials"]
 ---

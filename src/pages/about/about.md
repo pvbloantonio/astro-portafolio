@@ -1,10 +1,15 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Developer"
-location: Los Angeles, California
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Pablo Elgueta"
+designation: "Desarrollador de Software"
+location: Valdivia, Chile
+pronouns: "cv"
+website: "http://pabloelgueta.cl"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++3 años de experiencia como Desarrollador de Software, actualmente
+desempeño este rol en una empresa de seguros con sede en Santiago,
+Chile, trabajando de forma remota desde Valdivia. Mi pasión por la
+tecnología y el desarrollo de software me ha llevado a liderar proyectos
+innovadores y desafiantes que contribuyen al éxito de las empresas para
+las que trabajo.
