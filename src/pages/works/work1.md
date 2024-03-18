@@ -22,7 +22,6 @@ integrado con FOP para generar PDFs. Desarrollé un visor de documentos
 Blazor, orquestado con microservicios, mejorando la accesibilidad y
 usabilidad. En estos momentos me encuentro migrando servicios SOAP a
 microservicios .NET, incluyendo la transformación de formularios en .NET Framework
-a Blazor. Estos avances reflejan nuestro compromiso con la
+a Blazor. Estos avances reflejan mi compromiso con la
 modernización y la eficiencia de los sistemas de gestión de siniestros de
 HDI Seguros.
-ANALISTA

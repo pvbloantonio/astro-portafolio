@@ -24,4 +24,3 @@ mejora continua de la segunda versión del producto de tienda, así como en
 la colaboración para el desarrollo de mantenedores del sitio de
 administración. Además, lideré el desarrollo de un cambio crucial para la
 visualización de precios en las tiendas.
-E D
