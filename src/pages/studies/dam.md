@@ -3,7 +3,7 @@ title: Ingenieria en Informática
 location: Valdivia, Chile
 url: https://www.ust.cl/
 institute: Universidad Santo Tomás
-date: 2010-2016
+date: 2016
 tags: [
     "C++",
     "JAVA",
