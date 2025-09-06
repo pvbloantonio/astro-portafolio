@@ -3,13 +3,8 @@ title: about
 name: "Pablo Elgueta"
 designation: "Desarrollador de Software"
 location: Valdivia, Chile
-pronouns: "cv"
+pronouns: "Descargar CV"
 website: "http://pabloelgueta.cl"
 ---
 
-+3 años de experiencia como Desarrollador de Software, actualmente
-desempeño este rol en una empresa de seguros con sede en Santiago,
-Chile, trabajando de forma remota desde Valdivia. Mi pasión por la
-tecnología y el desarrollo de software me ha llevado a liderar proyectos
-innovadores y desafiantes que contribuyen al éxito de las empresas para
-las que trabajo.
+Ingeniero en Desarrollo con más de 4 años de experiencia en .NET, Blazor, C# y PL/SQL. He participado en proyectos de transformación digital en el rubro asegurador, liderando la migración de aplicaciones monolíticas hacia arquitecturas modernas y escalables. Me destaco por la capacidad de diseñar soluciones reutilizables, mejorar la experiencia de usuario y optimizar procesos críticos de negocio, contribuyendo a la eficiencia y modernización tecnológica de las organizaciones.

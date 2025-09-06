@@ -18,9 +18,10 @@ tags:
   ]
 ---
 
-Lideré la implementación exitosa de más de 30 tiendas electrónicas
-utilizando la plataforma Softland. Participé activamente en el desarrollo y
-mejora continua de la segunda versión del producto de tienda, así como en
-la colaboración para el desarrollo de mantenedores del sitio de
-administración. Además, lideré el desarrollo de un cambio crucial para la
-visualización de precios en las tiendas.
+Lideré la implementación de más de 30 e-commerce integrados con Softland, asegurando su correcta conexión con los módulos de gestión de la empresa.
+
+Participé en el desarrollo y mejora continua de la segunda versión del producto de tienda, optimizando funcionalidades y experiencia de usuario.
+
+Desarrollé mantenedores para el sitio de administración, facilitando la gestión de productos, clientes y configuraciones.
+
+Encabecé un cambio clave en la visualización de precios en los e-commerce, mejorando la transparencia y usabilidad para los clientes finales.
